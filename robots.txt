@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Разрешаем индексировать всё
+Disallow:
+
+# Карта сайта
+Sitemap: https://anti-ai-kven-academy-ege-2026-chine.vercel.app/sitemap.xml
+Sitemap: https://anti-ai-kven-academy-ege-2026-chinese.netlify.app/sitemap.xml
+Sitemap: https://anti-ai-kven-academy-ege-2026-chinese.pages.dev/sitemap.xml
